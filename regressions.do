@@ -11,4 +11,4 @@ reg price mpg
 
 
 
-summ lenght
+summ lenght 
